@@ -63,7 +63,7 @@ export const RootView = () => {
               Click on any marker to learn more about a city
             </p>
           </div>
-          {/* <Map /> */}
+          <Map />
         </div>
       </section>
 
