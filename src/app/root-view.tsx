@@ -1,3 +1,4 @@
+"use client";
 import Map from "@/components/map";
 
 export const RootView = () => {
@@ -62,7 +63,7 @@ export const RootView = () => {
               Click on any marker to learn more about a city
             </p>
           </div>
-          <Map />
+          {/* <Map /> */}
         </div>
       </section>
 
